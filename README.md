@@ -230,3 +230,30 @@ Another type of cryptocurrency that runs on a blockchain is called a **crypto to
 	- utility tokens
 		- give users access to a future product or service
 		- for example, a startup issue utility tokens to users to raise money and later users utilize the tokens to use the startup service
+
+# Example of blockchain in action today
+
+## Everledger
+	- a platform that illuminates transparency in a number of industries
+	- the solution manages characteristics of assets that includes origin, sustainability footprint and compliance standards
+	- it can be used to bring new insights to the life cycle of items such as arts, batteries, diamonds, and luxury goods
+	- the platform works by storing an authenticted digital record, a digital twin of an asset in blockchain
+	- this record contains details on how it came to be, where it came from and who made it
+	- as the asset move through the life cycle, all details are recorded on the Everledger Blockchain
+
+
+## Decentralized autonomous organization (DAO) - no hierarchy, no reports to 
+- eliminating the need to trust participants since trust is encoded in the software, not people
+- a mechanism for human coordination and can be global on day one
+- everyone has an equal opportunity to participate and anyone can submit ideas for innovation or have their voice heard around an organizational decision
+- example of DAO is bitcoin network
+
+## Online voting concerns
+- a person is who they say they are
+- can only vote once for a given selection
+- vote is protected from meddling
+
+## Smart contract
+- code that runs on a blockchain
+- a series of function that executes when certain conditions are met
+- smart contracts run predictably and accurately
