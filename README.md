@@ -208,3 +208,25 @@ Key Point:
 The network doesn't "give" Bitcoin to Sarina directly. Instead, the blockchain ledger is updated to reflect that Carlos’ Bitcoin is no longer his and now belongs to Sarina. This change in ownership is recorded in the blockchain, and everyone on the network agrees that the transaction has occurred. Sarina can then spend that Bitcoin in the future using her own private key.
 
 This process ensures that no central authority is needed—everything is done through decentralized verification and consensus.
+
+# Ether 
+- runs on a blockchain platform called **Ethereum** (supports both crypto and a system for application development)
+- Ethereum uses the decentralized architecture of blockchain technology to turn its network into a computer
+- Each connected device collectively makes up the Ethereum virtual machine, or EVM
+- EVM is low cost, scales massively, avoids downtime, and has security baked into all its functions
+- Solutions can be built using it proprietary programming language called **Solidity**
+- Example of Ethereum applications are called **Dapps**
+	- sophisticated banking services
+	- marketplaces for digital art
+	- crowdfunding
+	- games
+- Ethereum's crypto Ether is used as the funding mechanism for computational resources utilized on the network, and to pay any transaction fees required by Dapps
+
+Another type of cryptocurrency that runs on a blockchain is called a **crypto token**
+- can be either **security tokens** or **utility tokens**
+	- security tokens
+		- can be used to represent the whole or fractional ownership of any asset that already has value, such as real estate, a car, or corporate stock
+		- for example, an owner can own a token that represents a 5% share of a boat
+	- utility tokens
+		- give users access to a future product or service
+		- for example, a startup issue utility tokens to users to raise money and later users utilize the tokens to use the startup service
